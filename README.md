@@ -29,9 +29,11 @@ This project is part of the Foundations course in The Odin Project curriculum. T
 ## Usage
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/yourusername/recipe-website.git
    ```
+
 2. Open `index.html` in your web browser to view the homepage.
 
 ## Contributing
